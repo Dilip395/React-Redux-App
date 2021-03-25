@@ -1,0 +1,19 @@
+.cart-count {
+  position: absolute;
+  right: 23px;
+  top: 20px;
+  color: white;
+  background-color: red;
+  width: 20px;
+  border-radius: 50%;
+  height: 20px;
+  z-index: 1;
+  padding: 5px;
+}
+
+.add-to-cart img {
+  width: 79px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+}

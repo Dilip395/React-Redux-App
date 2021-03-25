@@ -1,0 +1,30 @@
+.btn-wrapper button {
+  background-color: red;
+  padding: 10px;
+  border: 0px;
+  border-radius: 5px;
+  color: #fff;
+  box-shadow: #333 0px 1px 5px;
+}
+.cart-wrapper {
+  height: 120px;
+  width: 550px;
+  border: 1px solid #ccc;
+  margin-left: 10px;
+}
+
+.img-wrapper img {
+  width: 100px;
+}
+
+.item {
+  float: left;
+  width: 120px;
+  display: inline-block;
+  padding: 20px;
+  height: 70px;
+}
+button.remove-cart-btn {
+  background-color: purple;
+  margin-top: 8px;
+}
